@@ -25,8 +25,10 @@
 - 2 - Irá te mostrar todos os aplicativos do programa já instalados
 - 3 - Abra o *Firefox* e baixe o *Google Chrome*
 - 4 - Selecione a opção para o *Fedora*
-
+- 5 - Aperte em *Instalar*
 
 ![Captura de tela 2025-02-27 153302](https://github.com/user-attachments/assets/68817ed3-4d3b-4af3-abd8-4ced8f8dce87)
 
 ![image](https://github.com/user-attachments/assets/d43a25ca-7fbe-40cc-84f7-09764a91bba6)
+
+![image](https://github.com/user-attachments/assets/9fa3e351-3539-4a4b-a8c5-b4da27dcbe6e)
